@@ -41,7 +41,7 @@
 		<h3> <center>L’enseignement de spécialité Numérique et Sciences Informatiques propose aux élèves de découvrir des notions en lien, entre autres, avec l’histoire de l’informatique, la représentation et le traitement de données, les interactions homme-machine, les algorithmes, le langage et la programmation. L’élève s’y approprie des notions de programmation en les appliquant à de nombreux projets. La mise en oeuvre du programme multiplie les occasions de mise en activité des élèves, sous diverses formes qui permettent de développer des compétences transversales (autonomie, initiative, créativité, capacité à travailler en groupe, argumentation, etc.).Choisir la spécialité NSI, c’est suivre un enseignement moderne, étroitement lié au monde d’aujourd’hui, qui permet aux élèves d’appréhender le numérique en étant concepteur plutôt que simple utilisateur.</h3>
 		<center> <img src="C:\Users\eleve\Documents\logoNSI.jpg" width=180 height=100  > </center>
 		<h4> <a href="https://www.nsi-premiere.fr/files/extrait.pdf"> programe nsi en pdf</a> </h4>
-		<h4> <br > fait par hugo koely 1g5 le 16/12/22 </br></h4>	
+	
 	
 	</HEAD>
 </html>
